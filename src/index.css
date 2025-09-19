@@ -1,0 +1,19 @@
+ .module{
+    background-color: lightyellow;
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    height: 350px;
+ }
+.module img{
+    width: 200px;
+    border-radius: 5px;
+}
+.module button{
+    border-radius: 5px;
+    background-color:rgb(213, 210, 210)
+}
