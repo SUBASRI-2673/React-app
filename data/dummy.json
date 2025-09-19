@@ -1,0 +1,27 @@
+{
+"courses":  
+[
+    {      
+      "id": 1,
+      "name": "React Basic Course",
+      "price": 1000,
+      "image": "http://localhost:3000//assets/React.png",
+      "rating": "rating:5"
+    },
+    {
+      "id": 2,
+      "name": "React Full Course",
+      "price": 2000,
+      "image": "http://localhost:3000//assets/React.png",
+      "rating": "rating:5"
+    },
+    {
+      "id": 3,
+      "name": "React Advanced Course",
+      "price": 3000,
+      "image": "http://localhost:3000//assets/React.png",
+      "rating": "rating:5"
+    }
+  ] }
+
+ 
